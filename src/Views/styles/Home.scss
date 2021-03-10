@@ -1,0 +1,10 @@
+.home {
+	padding: 20px;
+	&_tops {
+		display: flex;
+		flex-direction: row;
+		justify-content: flex-start;
+		gap: 5px;
+		flex-wrap: wrap;
+	}
+}

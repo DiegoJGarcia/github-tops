@@ -1,0 +1,18 @@
+First word
+
+config:
+fix:
+feature:
+update:
+improve:
+structure:
+
+Middle words:
+
+...descriptive sentence
+
+Last words:
+
+[start]
+[working 10-90%]
+[end]

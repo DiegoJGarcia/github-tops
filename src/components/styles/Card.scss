@@ -1,0 +1,15 @@
+@import '../../vars';
+
+.card {
+	display: flex;
+	flex-direction: row;
+	cursor: pointer;
+	justify-content: flex-start;
+	align-items: center;
+	&_info {
+		display: flex;
+		flex-direction: column;
+		justify-content: flex-start;
+		align-items: center;
+	}
+}
